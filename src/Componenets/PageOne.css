@@ -1,0 +1,42 @@
+.pageonecontleft{
+    padding-top: 4%;
+    padding-left: 15%;
+    display: flex;
+}
+.pageonecont{
+    padding-top: 12.2%;
+}
+.look1{
+    display: inline;
+    color: white;
+}
+.lookcont{
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+.look2{
+    display: inline;
+    color: white;
+}
+.look1 .material-icons{
+    margin-left: 1rem;
+    transform: rotate(120deg);
+}
+.look2 .material-icons{
+    margin-left: -1rem;
+    transform: rotate(-50deg);
+}
+.tickicon{
+    margin-left: 20.5rem;
+    color: white;
+}
+.tickicon .material-icons{
+    margin-left: 7rem;
+    transform: rotate(-45deg);
+}
+.Oasis{
+    padding-top: 5rem;
+    color: white;
+    padding-left: 0.7rem;
+    font-size: 1.2rem;
+}

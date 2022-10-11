@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cryptonaukriAps/static/css/main.3323f4c0.css",
-    "main.js": "/cryptonaukriAps/static/js/main.632a794d.js",
+    "main.js": "/cryptonaukriAps/static/js/main.5812c501.js",
     "static/js/787.28cb0dcd.chunk.js": "/cryptonaukriAps/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/cryptonaukriAps/index.html",
     "main.3323f4c0.css.map": "/cryptonaukriAps/static/css/main.3323f4c0.css.map",
-    "main.632a794d.js.map": "/cryptonaukriAps/static/js/main.632a794d.js.map",
+    "main.5812c501.js.map": "/cryptonaukriAps/static/js/main.5812c501.js.map",
     "787.28cb0dcd.chunk.js.map": "/cryptonaukriAps/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3323f4c0.css",
-    "static/js/main.632a794d.js"
+    "static/js/main.5812c501.js"
   ]
 }

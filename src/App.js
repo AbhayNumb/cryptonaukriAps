@@ -11,16 +11,16 @@ function App() {
       <div style={{ display: "flex" }}>
         <RemainSame />
         <switch>
-          <Route exact path="/">
+          <Route exact path="/cryptonaukriAps/">
             <PageOne />
           </Route>
-          <Route exact path="/pagetwo">
+          <Route exact path="/cryptonaukriAps/pagetwo">
             <PageTwo />
           </Route>
-          <Route exact path="/pagethree">
+          <Route exact path="/cryptonaukriAps/pagethree">
             <PageThree />
           </Route>
-          <Route exact path="/pageFour">
+          <Route exact path="/cryptonaukriAps/pageFour">
             <PageFour />
           </Route>
         </switch>

@@ -81,10 +81,10 @@ function PageThree() {
         <div>Your info is safely secured</div>
         </div>
         <div style={{ marginLeft: "21rem", marginTop: "3.5rem" }}>
-          <Link style={{ textDecoration: "none" }} to="pagetwo">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps/pagetwo">
             <Button href="#text-buttons">Prev</Button>
           </Link>
-          <Link style={{ textDecoration: "none" }} to="pagefour">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps/pagefour">
             <Button href="#text-buttons">Next</Button>
           </Link>
         </div>

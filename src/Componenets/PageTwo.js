@@ -56,10 +56,10 @@ function PageTwo() {
         <div style={{paddingLeft:'15rem', fontWeight:'lighter'}} >OR</div>
         <div style={{paddingLeft:'5.4rem'}}><Button style={{width:'20rem'}} variant="outlined">Login with Google</Button></div>
         <div style={{ marginLeft: "21rem" ,marginTop:'2rem'}}>
-          <Link style={{ textDecoration: "none" }} to="/">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps">
             <Button href="#text-buttons">Prev</Button>
           </Link>
-          <Link style={{ textDecoration: "none" }} to="pagethree">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps/pagethree">
             <Button href="#text-buttons">Next</Button>
           </Link>
         </div>

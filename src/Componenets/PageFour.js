@@ -62,7 +62,7 @@ function PageFour() {
         <div>Your info is safely secured</div>
         </div>
         <div style={{ marginTop: "12.4rem", marginLeft: "24.8rem" }}>
-          <Link style={{ textDecoration: "none" }} to="pagethree">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps/pagethree">
             <Button href="#text-buttons">PREV</Button>
           </Link>
         </div>

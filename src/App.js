@@ -20,7 +20,7 @@ function App() {
           <Route exact path="/cryptonaukriAps/pagethree">
             <PageThree />
           </Route>
-          <Route exact path="/cryptonaukriAps/pageFour">
+          <Route exact path="/cryptonaukriAps/pagefour">
             <PageFour />
           </Route>
         </switch>

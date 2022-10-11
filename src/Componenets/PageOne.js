@@ -89,7 +89,7 @@ export default function PageOne() {
           </Button>
         </div>
         <div style={{ marginTop: "9.9rem", marginLeft: "25rem" }}>
-          <Link style={{ textDecoration: "none" }} to="pagetwo">
+          <Link style={{ textDecoration: "none" }} to="/cryptonaukriAps/pagetwo">
             <Button href="#text-buttons">Next</Button>
           </Link>
         </div>
